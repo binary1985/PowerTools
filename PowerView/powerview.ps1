@@ -1,5 +1,5 @@
 #requires -version 2
-
+Write-Verbose "Imported"
 <#
 
     PowerSploit File: PowerView.ps1
